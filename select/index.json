@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Eagles - Please Come Home For Christmas (Official Audio)",
+  "base_artist": "Eagles",
+  "createdAt": "2025-12-25T11:20:59.874916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eagles Fly",
+      "artist": "Sammy Hagar",
+      "has_synced": true,
+      "path": "select/01_Eagles_Fly_Sammy_Hagar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eagles Fly",
+      "artist": "Sammy Hagar",
+      "has_synced": true,
+      "path": "select/02_Eagles_Fly_Sammy_Hagar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wings of Eagles",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/03_Wings_of_Eagles_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where No Eagles Fly",
+      "artist": "Julian Casablancas+The Voidz",
+      "has_synced": true,
+      "path": "select/04_Where_No_Eagles_Fly_Julian_Casablancas+The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lions & Eagles (feat. Meek Mill)",
+      "artist": "Tee Grizzley feat. Meek Mill",
+      "has_synced": true,
+      "path": "select/05_Lions_&_Eagles_(feat._Meek_Mill)_Tee_Grizzley_feat._Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lions & Eagles (feat. Meek Mill)",
+      "artist": "Tee Grizzley",
+      "has_synced": true,
+      "path": "select/06_Lions_&_Eagles_(feat._Meek_Mill)_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Bratmobile",
+      "has_synced": false,
+      "path": "select/07_Where_Eagles_Dare_Bratmobile.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Bratmobile",
+      "has_synced": true,
+      "path": "select/08_Where_Eagles_Dare_Bratmobile.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/09_Where_Eagles_Dare_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Eagles Dare",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/10_Where_Eagles_Dare_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where Eagles Have Been",
+      "artist": "Wolfmother",
+      "has_synced": true,
+      "path": "select/11_Where_Eagles_Have_Been_Wolfmother.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Screaming Eagles",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/12_Screaming_Eagles_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aerie (Gang of Eagles)",
+      "artist": "Jefferson Airplane",
+      "has_synced": false,
+      "path": "select/13_Aerie_(Gang_of_Eagles)_Jefferson_Airplane.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "0435 - The Eagles - Hotel California",
+      "artist": "The Eagles",
+      "has_synced": true,
+      "path": "select/14_0435_-_The_Eagles_-_Hotel_California_The_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let 'Em Talk (feat. Eagles of Death Metal)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/15_Let_'Em_Talk_(feat._Eagles_of_Death_Metal)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boogie Feet (feat. Eagles of Death Metal)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/16_Boogie_Feet_(feat._Eagles_of_Death_Metal)_Kesha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Please Come Home for Christmas",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Please_Come_Home_for_Christmas_Eagles.txt"
+    }
+  ]
+}
